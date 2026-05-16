@@ -1,6 +1,6 @@
 # The prolog-universe
 
-**Motto:** *Make things and the universe simple, coherent, and logical.*
+**Note:** *​A noble, yet useless attempt to simplify our view of the complex universe.*
 
 ## Description
 
